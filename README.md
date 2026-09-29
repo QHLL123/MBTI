@@ -1,0 +1,2 @@
+# MBTI
+MBTI测试-AI生成
